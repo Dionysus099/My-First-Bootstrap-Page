@@ -1,3 +1,3 @@
 # My-First-Bootstrap-Page
 
-A page that consists of examples of most of the contents of Bootstrap.
+An example a page made on Bootstrap Framework.
